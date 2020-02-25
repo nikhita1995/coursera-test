@@ -1,0 +1,13 @@
+.myHeading{
+	color: #0000ff;
+	font-family: serif;
+}
+
+.myTot{
+	color: #ff0000;
+	font-family: serif;
+}
+
+.myTable{
+	table-layout: fixed;
+}
